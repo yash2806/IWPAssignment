@@ -1,5 +1,5 @@
 # IWPAssignment #
-Submission to IWP Assignment as on 18/08/20 by Group 14.
+Submission to IWP Assignment as on 18/08/20 by Group 7.
 
 ## Project 1 ##
 ### Improvements to IRCTC Website ###
