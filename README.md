@@ -4,7 +4,7 @@ Submission to IWP Assignment as on 18/08/20 by Group 7.
 ## Project 1 ##
 ### Improvements to IRCTC Website ###
 Internal HTML, CSS and JavaScript
-The IRCTC Website is an effort by Indian railways to digitalize the ticket booking system to make it more convienient. The website although functionally stable, still has many functions missing. One of the most basic functions that can be added to the site is the use of geolocation for tracking the location of the passenger as well as providing live status of trains on the route.
+The IRCTC Website is an effort by Indian railways to digitalize the ticket booking system to make it more convienient. One of the most basic functions that can be added to the site is the use of geolocation for tracking the location of the passengers.
 
 This feature is implemented using the Maps Javascript API provided by Google for tracking locations via browser. This provides accurate location of the user on the map and can be displayed as a Google map window. The API key has restricted acces hence some features might be disabled. The API key will be removed on 20-08-20.
 
